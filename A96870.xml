@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lex talionis: or, God paying every man in his own coyn. Held forth in a sermon preached at Margarets Westminster, before the Honorable House of Commons, on their solemn fast, July 30th, 1645. / By Francis Woodcock, minister at Olaves Southwark, one of the Assembly of Divines. Published by order of that House.</title>
+            <author>Woodcock, Francis, 1614?-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96870</idno>
+            <idno type="STC">Wing W3431</idno>
+            <idno type="STC">Thomason E294_13</idno>
+            <idno type="STC">ESTC R200182</idno>
+            <idno type="EEBO-CITATION">99860987</idno>
+            <idno type="PROQUEST">99860987</idno>
+            <idno type="VID">113114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113114)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lex talionis: or, God paying every man in his own coyn. Held forth in a sermon preached at Margarets Westminster, before the Honorable House of Commons, on their solemn fast, July 30th, 1645. / By Francis Woodcock, minister at Olaves Southwark, one of the Assembly of Divines. Published by order of that House.</title>
+                  <author>Woodcock, Francis, 1614?-1651.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Christopher Meredith at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 1st II, 30 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113114:1" rendition="simple:additions"/>
+            <p> 
+               <hi>Lex Talionis:</hi> OR, GOD PAYING Every man in his own COYN: HELD FORTH IN A SERMON PREACHED at <hi>Margarets Westminster,</hi> before the Honourable Houſe of COMMONS, On their ſolemn Faſt, <hi>July</hi> 30<hi rend="sup">th</hi>, 1645.</p>
+            <p>By FRANCIS WOODCOCK, Miniſter at <hi>Olaves Southwark,</hi> one of the Aſſembly of Divines.</p>
+            <p>Publiſhed by Order of that Houſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>Christopher Meredith</hi> at the Crane in <hi>Pauls</hi> Church-yard, 1646.</p>
+            <pb facs="tcp:113114:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113114:2"/>
+            <head>TO THE HONOVRABLE HOVSE OF COMMONS aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He occaſion of this Sermons ſo late coming forth (that I may give you an account why your com<g ref="char:EOLhyphen"/>mands have been obey'd no ſooner) was, partly from the Sermon preacht on the ſame day, partly from that which was preacht on the day before: That which my Collegue preacht on the ſame day, had ſo much of novelty in it, and which ſo wholly took up the mindes of many, that till the wonder thereof was over, I deſpaird, that a<g ref="char:EOLhyphen"/>ny thing I could publiſh would be vouchſa<g ref="char:EOLhyphen"/>fed a look from them, whereby in the leaſt it might become uſefull. The Sermon preacht on the Faſt day before, was (though to me unknown) upon the very ſame text I preacht on. When I understood it, I waited for the publiſhing of it, purpoſing, if it had come forth (to the intent the Preſse ſhould not
+<pb facs="tcp:113114:3"/> cloy you, whatever the Pulpit had done) to have ſuppreſt mine; but hearing nothing of it, after long waiting, I then reſolved upon printing, the rather, lest my forbearance might be interpreted neglect; as alſo, that a Text ſo every way appoſite and concerning, ſhould not want a means whereby it might be ſometimes remembred. I therefore once more ſet before you (as <hi>Moſes</hi> ſometime did before <hi>Iſrael)</hi> Iſay, I ſet before you life and death, bleſſing and curſing, ſhame and ho<g ref="char:EOLhyphen"/>nour. Which of theſe you ſhould chuſe I ſhall not here perſwade, it being the buſineſſe of the following Sermon. At the preſent, J ſhall only pray; that that wiſe and mercifull hand, which hath hitherto lead you in ways of life, bleſſing, honour, would never be wea<g ref="char:EOLhyphen"/>ry to continue, and keep you in them; hedg<g ref="char:EOLhyphen"/>ing up all other waies with thorns, that you may never finde their paths: And this ſhall alwaies be the prayer of</p>
+            <closer>
+               <signed>Your faithfully devoted Servant, <hi>FRANCIS WOODCOCK.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113114:3"/>
+            <head>A SERMON PREACHED at the monethly Faſt, <hi>July</hi> 30. 1645. before the Honourable Houſe of COMMONS.</head>
+            <epigraph>
+               <bibl>1 SAM. 2. 3.</bibl>
+               <q>For them that honour me I will honour; and them that deſpiſe me ſhall be lightly eſteemed.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>OD having laid a law upon us all to do our uttermoſt to advance his honour; to make it the better obſerv'd, hath made promiſe of reward to them that keep it, and to them that doe not hath threatned puniſhment. And becauſe all men are not acted by the ſame motive, and that which prevails with one, doth not take upon a<g ref="char:EOLhyphen"/>nother at all; therefore are there variety of rewards and puniſhments propounded, and ſo to none occaſion given to ſleight the dutie, becauſe he wants a ſutable motive to excite him to it.</p>
+            <p>Among all arguments for this purpoſe, I finde none more potent upon ingenuous and free ſpirits, then <hi>hope</hi>
+               <pb n="2" facs="tcp:113114:4"/> 
+               <hi>of honour,</hi> nothing ſo powerfully diſſwading the contrary, as <hi>fear of ſhame:</hi> Yea almoſt among all men, what is there in their ſeverall buſineſſes and undertakings more regard<g ref="char:EOLhyphen"/>fully looked upon then <hi>ſhame and honour?</hi> ſo that I being this day to urge with all my might the <hi>honouring of God,</hi> and being to preach to you, to you, moſt honoured Wor<g ref="char:EOLhyphen"/>thies, no doubt a company of free and noble ſpirits, what more ſutable Scripture could I pitch upon, whereon to found my diſcourſe, then what I have now read, where<g ref="char:EOLhyphen"/>in God himſelf is held out unto you, calling for, and urging his honour, by both the former Arguments? for ſo the Text, <hi>Them that honour me I will honour, and them that deſpiſe me ſhall be lightly eſteemed.</hi>
+            </p>
+            <p>I am glad I have not the like ſad occaſion to preach up<g ref="char:EOLhyphen"/>on theſe words, as the man of God had that firſt preach'd them. The occaſion was briefly this. The <hi>ſonnes of Eli</hi> the Prieſt, were alſo <hi>ſonnes of Belial,</hi> and in the execution of their Prieſtly Office, committed unſufferable, unheard of inſolencies: their indulgent Father <hi>Eli</hi> lets them alone: yea, although he was Judge in <hi>Iſrael</hi> at that time, and ſo had power ſufficient in his hand to have reſtrain'd them; Whereupon, God takes the <hi>ſin</hi> of the <hi>ſonnes,</hi> and the <hi>indul<g ref="char:EOLhyphen"/>gence</hi> of the <hi>Father</hi> ſo heinouſly, as that he ſends a Pro<g ref="char:EOLhyphen"/>phet to <hi>Eli</hi> with this meſſage, That inaſmuch as his two ſonnes had ſo much diſhonoured their holy Prieſthood, doing things ſo altogether unbeſeeming ſuch an Office; and he, their eaſie Father, although arm'd with power had not put it forth, that ſo a ſtop might be given to their enormous wickedneſſes, therefore the Lord was purpoſed ſeverely to be aveng'd, and would caſt them out from that honour of Prieſthood, which they, while enjoy'd had ſo much diſhonoured. And leſt the Lord in this threat<g ref="char:EOLhyphen"/>ning ſhould be argued of unfaithfulneſſe, having former<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:113114:4"/> promiſed to <hi>Aarons</hi> houſe an everlaſting Prieſthood, the Prophet inſinuates, that indeed the tenour of that ſame Promiſe was only, <hi>quamdiuſe bene geſserint,</hi> upon their good behaviour only, and urges the ſupreme law, according to which all inferiour grants are to be interpreted, in the words of the Text, <hi>Them that honour me I will ho<g ref="char:EOLhyphen"/>nour,</hi> &amp;c.</p>
+            <p>Taking therefore the words in their contexture with the former, and ſo they are plainly the reaſon, why, not<g ref="char:EOLhyphen"/>withſtanding the promiſe of the continuance of the Prieſt<g ref="char:EOLhyphen"/>ly dignity to <hi>Aarons,</hi> and ſo to <hi>Elies</hi> houſe, God was now intended to call in that grant, and deprive them of it. So you have the occaſion.</p>
+            <p>But take them now abſolutely, and in themſelves con<g ref="char:EOLhyphen"/>ſidered, under which notion I intend eſpecially to handle them, and then they are the ſupreme rule, according to which God is pleaſed to diſpence honours and diſhonours unto men: Or if you had rather, They are the rate, accord<g ref="char:EOLhyphen"/>ing to which every man may purchaſe to himſelf ſhame, or honour.</p>
+            <p>The diviſion of the words will not at all ſtay you, they fall of themſelves into two Propoſitions.
+<list>
+                  <item>1. <hi>Them that honour me I will honour.</hi>
+                  </item>
+                  <item>2. <hi>Them that deſpiſe me ſhall be lightly esteemed.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In each of theſe only, as we paſſe along, obſerve the changes. In the former, you have, firſt, <hi>God honoured,</hi> and <hi>man honouring;</hi> and then, <hi>Man honoured,</hi> and <hi>God honour<g ref="char:EOLhyphen"/>ing.</hi> In the later, firſt, <hi>God lightly eſteemed,</hi> and <hi>man light<g ref="char:EOLhyphen"/>ly esteeming;</hi> and then, <hi>Man lightly esteemed,</hi> and <hi>God lightly eſteeming.</hi> In both is held out that equall law of retribution, and aſſurance given, that God will pay every man in his own coyn.</p>
+            <p>
+               <hi>Them that honour me]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The word comes from,
+<pb n="4" facs="tcp:113114:5"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies firſt [to be heavy] then <hi>[to honour]</hi> The Apoſtle joyns both together, 2 <hi>Cor.</hi> 4. 17. making mention there of <hi>[a weight of glory]</hi> and the reaſon why the word <hi>[to honour]</hi> proceeds from ſuch an Originall, is this, becauſe whom we honour we do not account cheap or light; but on the contrary, have weighty thoughts, and a due eſteem of.</p>
+            <p>
+               <hi>And them that deſpiſe me]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The root of this word is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies <hi>[to deſpiſe, neglect, abominate]</hi> And is diverſly rendered by the <hi>Septuagint,</hi> ſometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, [to eſteem lightly] ſometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> [to de<g ref="char:EOLhyphen"/>ride] ſometimes they uſe the word [diſhonouring] ſome<g ref="char:EOLhyphen"/>times the word [making nothing of] to expreſſe it by. Tis here oppoſed to the former expreſſion of [honouring] and therefore [to deſpiſe God] muſt needs ſignifie [to ſet him at nought, or [to make light of him.]</p>
+            <p>
+               <hi>Shall be lightly eſteemed]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It is derived from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies, to eſteem lightly, to make light of: It ſignifies alſo to <hi>[roast]</hi> becauſe roaſted or burnt things have much of their weight drawn out by the fire. [To be deſpiſed] is oppoſed to that [being honoured of God] mentioned before. The ſumme of all this much.</p>
+            <p>
+               <hi>Such with more, the authority of God carries weight, upon ſuch God will put weight and eſteem; but ſuch as contemn God, ſhall alſo be ſet at nought, and made light of by him:</hi> or as the Scripture ſpeaks other where, ſhall be accounted <hi>light and vain perſons.</hi>
+            </p>
+            <p>The words being thus opened, I now proceed to make Obſervations upon them: And firſt, in that we ſee God diſpencing honours or diſhonours to men, according as they regard, or diſregard his honour; I obſerve this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>1</label> 
+               <hi>God is ſpecially regardfull of, and above all things tender of his own honour.</hi> 'Tis a clear caſe, God would not have
+<pb n="5" facs="tcp:113114:5"/> the eſteem of men be meaſured by that reſpect, which themſelves have to Gods honour, if above all things God had not regard to his own honour.</p>
+            <p>Secondly, In that it is ſaid, <hi>He will honour,</hi> and <hi>He will deſpiſe,</hi> meaning God: a next Obſervation may be this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> 
+               <hi>Look what reproach or honour happens to any, it is God that is the great and chief diſpoſer of it.</hi> I will honour.</p>
+            <p>Thirdly, From the manner of Gods diſpencing re<g ref="char:EOLhyphen"/>proach and honour.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> 
+               <hi>According as any endeavour the honour, or diſhonour of God, ſo ſhall they be honoured, or made light of by him.</hi>
+            </p>
+            <p>I begin with the firſt of theſe, <hi>viz. God is eſpecially re<g ref="char:EOLhyphen"/>gardfull of, and above all things tender of his own honour.</hi>
+            </p>
+            <p>He is ſo, ſo the Scripture ſpeaks him, Iſa. 42. 8. <hi>I am the Lord, that is my Name, and my glory will I not give unto ano<g ref="char:EOLhyphen"/>ther.</hi> God will <hi>give away</hi> any thing but his <hi>glory,</hi> but by no means will he part with that: nothing elſe ſo dear to him, which he will not give away; he'll part with his only begotten ſon; he'll give his holy Spirit, his grace he'll give away; he will part with heaven and happineſſe; yea, he'll give away <hi>himſelf,</hi> but yet he will not give away his <hi>glory.</hi>
+            </p>
+            <p>In this conſideration it is, he is called a <hi>jealous God,</hi> he is <hi>jealous of his honour;</hi> he <hi>loves</hi> his creature, I, but he is <hi>jea<g ref="char:EOLhyphen"/>lous</hi> of his honour, the ſtrongeſt paſſion of all other is con<g ref="char:EOLhyphen"/>verſant about his honour.</p>
+            <p>And no marvell, for this honour and glorie of his, is of all things that are the moſt excellent, <hi>His Name alone is ex<g ref="char:EOLhyphen"/>cellent, and his glory above the earth and heaven,</hi> Pſal. 148. 15. Put heaven and earth with all the glories of them in the balance, and let Gods glory only be weighed againſt them, and that <hi>weight of glory</hi> pertaining to God, will
+<pb n="6" facs="tcp:113114:6"/> quickly ſhew the glory of all the creature to be light and vanity.</p>
+            <p>Beſides, this honour of God is the great end of all things. It was for the manifeſtation of his glory, that he made the world; ſo that of it God may ſay, like as once <hi>Nebuchadnezzar, Is not this that great world that I have made</hi> 
+               <note place="margin">Dan 4. 30.</note> 
+               <hi>by the might of my power, and for the honour of my Majeſtie?</hi> For his honour it was that he made the world, and when this is denied him, by a deluge he again <hi>deſtroyes</hi> the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Is this ſo, is God indeed ſo tender of his own honour? Then certainly God cannot be well pleaſed with Idola<g ref="char:EOLhyphen"/>ters or proud perſons: the Idolater he cannot away with, as giving the honour due to God <hi>unto another:</hi> the proud perſon, becauſe he takes it all unto <hi>himſelf:</hi> the Idolater diſhonours God, in making <hi>God a creature;</hi> the proud per<g ref="char:EOLhyphen"/>ſon, in making the <hi>creature God:</hi> neither of them but are very unacceptable to God, God above all things <hi>regarding</hi> his honour, and they altogether <hi>regardleſſe</hi> of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Again, Is God above all things tender of his own ho<g ref="char:EOLhyphen"/>nour? then cannot he endure the proſtituting his honour, to any end beſides it ſelf, much leſſe to any baſe end. Ac<g ref="char:EOLhyphen"/>cordingly, to proſtitute Religion, from whence God hath moſt honour, either to gaine, or peace, or any ſuch like carnall end, cannot but be diſpleaſing to God: and therefore ſhould we of this Kingdom be ſo enamour<g ref="char:EOLhyphen"/>ed of our former quiet, as for the gaining of it to be con<g ref="char:EOLhyphen"/>tent to quit our Religion, hopes of Reformation, and the execution of juſtice upon the capitall Delinquents of the Kingdome, God would aſſuredly never be pleas'd with ſuch a peace: God hath made his honour our <hi>end</hi> only, we doe infinitely abaſe it, when we make it a <hi>means to ſerve our ends.</hi>
+            </p>
+            <pb n="7" facs="tcp:113114:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Again, Let none therefore preſume ſo farre upon the favour and indulgence of God, as thereupon to take the boldneſſe to diſhonour him: God may love <hi>them well,</hi> but his <hi>honour better;</hi> ſuch as have been deareſt to him, have paid for it when they have diſhonoured him: yea, ſo paſ<g ref="char:EOLhyphen"/>ſionately is God affected to his own honour, as that, al<g ref="char:EOLhyphen"/>though we were the ſignet of his right hand, he would caſt us aſide, rather then that by us his honour ſhould be diminiſhed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> 
+               <hi>Look what honour or diſhonour befals any, 'tis God that is the great diſpoſer of it.</hi>
+            </p>
+            <p>The Scripture is clear in it. <hi>Promotion</hi> (ſaies the Pſalm<g ref="char:EOLhyphen"/>iſt) <note place="margin">Pſal. 75. 6.</note> 
+               <hi>cometh neither from the Eaſt, nor from the Weſt; but God is the Judge, he putteth downe one, and ſetteth up another.</hi>
+            </p>
+            <p>'Tis part of <hi>Hannah's</hi> prayer or ſong, 1 <hi>Sam.</hi> 2. 8. <hi>He raiſeth the beggar from the dunghill, and equals him with Princes:</hi> The antiphone or counter-part whereof is ſung by <hi>David, He poureth contempt upon Princes, and levels them with the dung-hill,</hi> Pſal. 107. 40.</p>
+            <p>Afflictions (ſuch as diſhonour and reproach are) we <note place="margin">Iob 5. 6.</note> are told in <hi>Job, do not ſpring out of the duſt,</hi> they happen not by chance: and as not diſhonour; ſo nor doth honour ſpring from the duſt neither: and though 'tis true the Scripture ſometime mentions the <hi>laying our honour in the duſt,</hi> it no <note place="margin">Pſal 7. 5.</note> where ſaies it firſt <hi>ariſes out of it.</hi>
+            </p>
+            <p>'Tis then the ſame great <hi>Potter,</hi> that formeth <hi>veſſels of</hi> 
+               <note place="margin">Rom. 9. 21.</note> 
+               <hi>honour and diſhonour</hi> for the future life, who alſo makes the <hi>veſſels of honour and diſhonour</hi> of the preſent life. He that doth the one, doth the other alſo.</p>
+            <p>And there's good reaſon he ſhould: Did any elſe di<g ref="char:EOLhyphen"/>ſpoſe of honour and diſhonour? Did chance or fortune, as they call it, diſpoſe them, it would be a blinde diſpoſall
+<pb n="8" facs="tcp:113114:7"/> indeed: we then ſhould ſee that done every day of <hi>chance,</hi> which <hi>Jacob</hi> once did purpoſely, and of <hi>choice, The right hand put upon the younger, the left hand on the Elder; we</hi> 
+               <note place="margin">Gen. 48. 14. Eccl <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 7.</note> 
+               <hi>ſhould moſt familiarly ſee ſervants on horſes, and Princes walk<g ref="char:EOLhyphen"/>ing as ſervants by them:</hi> and ſo what encouragement would there be of any to well doing; if ſhame and honour hap<g ref="char:EOLhyphen"/>pened to us of chance, who would in hope of honour be moved to vertuous action, when ſuch action is as like<g ref="char:EOLhyphen"/>ly to be rewarded with ſhame, as honour? Or, who through fear of ſhame will be deterr'd from wickedneſſe, when that, notwithſtanding he's every way as fair as any to be advanced to higheſt honours? Nor were the mat<g ref="char:EOLhyphen"/>ter much amended, were they at the diſpoſe and arbitri<g ref="char:EOLhyphen"/>ment of man: it would then be carried with ſo much partialneſſe, ſo little regard of worth, and ſo much regard of friends and intereſts; beſides of ſo uncertain a tenure would that honour be that depends upon the fancie and humour of man, that to want it on ſuch termes may ſeem as great a happineſſe as to enjoy it.</p>
+            <p>But now that God ſhould have the ordering of them, what more equall? Who more meet to diſpoſe of re<g ref="char:EOLhyphen"/>ward and puniſhment (which honour and diſhonour are) then he that makes the law, upon the breaking or keep<g ref="char:EOLhyphen"/>ing whereof, reward or puniſhment are to be diſpenced? Beſides, who ſo meet to have the award of theſe to man, as God, who as he beſt underſtands the true weight and va<g ref="char:EOLhyphen"/>lue of each mans actions; ſo alſo is moſt juſt, to give to e<g ref="char:EOLhyphen"/>very man according to his works?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> If this be ſo, in vain then doe we court or <hi>Prince,</hi> or <hi>people</hi> for honours, not expecting it at all from the hand of God. Indeed, the Prince may load his favourite with ti<g ref="char:EOLhyphen"/>tles, ſo much may be <hi>done for the man whom the Prince will honour:</hi> but as for any reall, weighty, abiding honour,
+<pb n="9" facs="tcp:113114:7"/> he muſt ſay, as once the King of <hi>Iſrael</hi> to the woman, <hi>If the Lord thy God doe not honour thee, how can I honour thee?</hi> 
+               <note place="margin">1 King 6. 27.</note> They therefore miſtake the way to honour, who to pur<g ref="char:EOLhyphen"/>chaſe it depart from us, going over to the enemy: alas! What doe ſuch do, but <hi>forſaking the living fountain of ho<g ref="char:EOLhyphen"/>nour,</hi> 
+               <note place="margin">Ier. 2. 13.</note> 
+               <hi>dig unto themſelves broken ciſterns that will yeeld them none.</hi> 'Tis true, the <hi>King</hi> is there, nevertheleſſe, there is not the <hi>fountain of honour;</hi> for 'tis God that doth diſpoſe unto the ſons of men ſhame and honour: ſo that although it frequently comes to paſſe (as <hi>Solomon</hi> obſerves it did in his daies) <hi>that every man ſeeks the Rulers favour,</hi> hoping <note place="margin">Prov. 29. 26.</note> that that being gained, they ſhall not fail to ſwim in hap<g ref="char:EOLhyphen"/>pineſſe and honour; yet (as the ſame <hi>Solomon</hi> adds) <hi>eve<g ref="char:EOLhyphen"/>ry mans judgement is of the Lord;</hi> God will have the caſt<g ref="char:EOLhyphen"/>ing voice in every mans promotion; which is the ſame was cited out of the <hi>Pſalm</hi> before, <hi>God is the Judge, he lifteth</hi> 
+               <note place="margin">Pſal. 75. 6.</note> 
+               <hi>up one, and caſteth down another.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Believe this ſame, let every of us reſolve upon it, it is ſo; then, if honour come, we ſhall know whom to thank for it; if for well doing our names are like to ſuffer, we ſhall know into whoſe hands to truſt them, as all<g ref="char:EOLhyphen"/>ſo, in the loſſe of honour, whither to goe to be re<g ref="char:EOLhyphen"/>paired.</p>
+            <p>I have done with both the former Obſervations, upon which I intended but a touch, and now haſte to the third, upon which, I ſhall (with your patience) inſiſt a little longer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> 
+               <hi>Accordingly as we either honour or diſhonour God, according<g ref="char:EOLhyphen"/>ly ſhall we be honoured or ſleighted by him.</hi> Or, if you had ra<g ref="char:EOLhyphen"/>ther, take the words of the Text,</p>
+            <p>
+               <hi>Them that honour God, God will honour, and them that de<g ref="char:EOLhyphen"/>ſpiſe him ſhall be lightly esteemed.</hi>
+            </p>
+            <p>In proſecution whereof, we ſhall enquire,</p>
+            <p n="1">
+               <pb n="10" facs="tcp:113114:8"/> 1. What it is to honour God, as alſo, what it is to de<g ref="char:EOLhyphen"/>ſpiſe, to diſhonour God?</p>
+            <p n="2">2. How it can with ſatisfaction be made appear to all of us, That accordingly as any doe honour or diſhonour God, accordingly they ſhall be honoured or diſeſteemed by him?</p>
+            <p>In anſwer to the former <hi>[to honour God]</hi> according to the notation of the word mentioned before, can be nothing elſe, then to give God that weight and value which is due unto him: It is to weigh the Lord in the balance of the Sanctuary, and to give him all the allowances of worth and value that appertain to him.</p>
+            <p>Miſtake me not, I ſay not ought can be added to that innate excellency that is in God: Should all the creatures caſt into the balance their ſeverall glories, they all toge<g ref="char:EOLhyphen"/>ther could not adde unto it the leaſt grain of glory: all their glory in this caſe is no more then what the Prophet ſaith <hi>themſelves</hi> are, when put in counterpoyſe with God, who are but as <hi>the ſmall duſt of the balance, yea, accounted leſſe then nothing, and vanity.</hi> We indeed muſt be beholden to <note place="margin">Iſa. 40. 17.</note> fellow creatures to honour us, elſe we get none; but 'tis not ſo with God, he being equally glorious before he made any creature, as he is at this day: So that, though Sunne, and Moon, and Starrs, Angels and men, yea, all the hoſts of Heaven and Earth, continually em<g ref="char:EOLhyphen"/>pty all their glories into God, yet is he ſwell'd up no higher hereby, then we ſee the Ocean is, which, notwithſtanding all the rivers running into it, is never the fuller.</p>
+            <p>To adde then any thing of dignity to God, this is not the Scriptures meaning, when it ſpeaks of honouring God. It is not (I ſay) to beſtow ſome worth upon God which he had not before; but rather to take notice of, and
+<pb n="11" facs="tcp:113114:8"/> acknowledge that worth and excellency which was in him before. And therefore if the Scriptures be conſulted, we ſhall finde that to conceive weighty thoughts of God, be<g ref="char:EOLhyphen"/>lieving him to be that great, that gracious, that juſt &amp; holy God his vvord and works ſhew him to be; to ſpeak of him accordingly &amp; readily, and without diſpute to receive his commands, this is <hi>plainly to honour God.</hi> Thus God ha<g ref="char:EOLhyphen"/>ving promiſed <hi>Abraham</hi> a ſonne, and he conceiving him able and faithfull that had promiſed, and thereupon <note place="margin">Rom 4 20.</note> (mauger all the contradiction of fleſh and bloud) belie<g ref="char:EOLhyphen"/>ving the performance, in ſo doing, is ſaid <hi>to glorifie God.</hi> In like manner when <hi>Achan</hi> is called upon to <hi>confeſſe his ſin,</hi> 
+               <note place="margin">Ioſh. 7. 19.</note> and ſo condemning himſelf, to juſtifie the Lord; this in Scripture language is <hi>to glorifie God:</hi> And when <hi>Peter,</hi> up<g ref="char:EOLhyphen"/>on the call of God, is willing to <hi>ſuffer death</hi> for the Go<g ref="char:EOLhyphen"/>ſpel, ſuch an obedience unto death, is accounted a <hi>glorify<g ref="char:EOLhyphen"/>ing</hi> 
+               <note place="margin">Ioh. 21, 19.</note> 
+               <hi>or honouring God.</hi>
+            </p>
+            <p>You ſee what it is to honour God, we next enquire what it is to <hi>diſhonour him.</hi> And this is not to detract any thing of ſubſtantiall worth from God, for that, as it is capable of no addition, (as we ſaw ere while) ſo neither can it in the leaſt be impaired: but rather, when God is <hi>weighed in our balance, and found</hi> (as once <hi>Belſhazzar</hi> was) <hi>too light,</hi> and we conceive mean &amp; undervaluing thoughts of him, in no wiſe comming up to that excellency of his, which every where ſhines forth: and further, when we ſpeak ſleightingly of him, as alſo make light of his commands, this is without all peradventure to diſhonour God. Thus when the Heathen are ſo low in their thoughts, as to conceive the God-head like unto ſilver and gold, and God himſelf like unto a bird, a beaſt, a creeping thing, and in ſuch likeneſſes worſhip him; this <note place="margin">Act. 17. 29. Rom. 1. 21, 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 23.</note> in <hi>Pauls</hi> account is to <hi>diſhonour God.</hi> Likewiſe when we
+<pb n="12" facs="tcp:113114:9"/> ſee a Jew, a zealous preacher of the law, preſſing it in all it's weight and burden upon others, yet none in practice making lighter of it then himſelf: the ſame Apoſtle tels us, <hi>That through breaking the Law, ſuch an one diſhonour<g ref="char:EOLhyphen"/>eth</hi> 
+               <note place="margin">Rom. 2. 23.</note> 
+               <hi>God.</hi>
+            </p>
+            <p>So I have anſwered the former Query by this time, and you ſee clearly what it is to honour and deſpiſe God.</p>
+            <p>As for the later, I mean, <hi>the proving of the point.</hi> The point is ſo expreſſe Scripture, that 'tis needleſſe to ſtay you in confirmation of it: only let me preſent it more ful<g ref="char:EOLhyphen"/>ly to your thoughts by a few inſtances. A firſt ſhall be of <hi>Iſrael;</hi> what people ſo renowned and famous as they were? and what's the reaſon? Why, from no Nation, nay, not from all the world had God ſo much honour as from them, and therefore they above all the world were honoured by him. <hi>Moſes</hi> a man greatly honouring God as any, and was he not accordingly honoured by him? Did not God ſet him a Prince over his people (for <hi>Moſes</hi> was a <hi>King in Jeſhurun)</hi> and did not he impreſſe ſuch high <note place="margin">Deut. 33. 5.</note> thoughts of him upon that people, and they ſo doted on him, that when he died God was fain to <hi>hide his body,</hi> leſt by the peoples idolizing of it, the body might doe <note place="margin">Deut 34. 6.</note> him more diſhonour being <hi>dead,</hi> then it did him honour while it was <hi>alive. David</hi> may be another inſtance, a man wholly devoted to honour God: and did not God a<g ref="char:EOLhyphen"/>bundantly <note place="margin">Pſal. 18. 70, 71, 72.</note> recompenſe him? He was taken from a <hi>ſheep<g ref="char:EOLhyphen"/>hook</hi> to a <hi>Scepter,</hi> from following &amp; feeding <hi>ſheep,</hi> to feed and rule the moſt renowned people in the world; and al<g ref="char:EOLhyphen"/>though the top of honour be a ſtippery place, and thoſe that are advanced to it doe not long keep their ſtanding, for <hi>man being in honour abideth not,</hi> yet becauſe <hi>David</hi> to the laſt honours God, God to the laſt continues to honour <note place="margin">Pſal 49. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="13" facs="tcp:113114:9"/> him: He ſets cleer and unclouded; for, ſaies the holy Ghoſt of him, <hi>He died in a good old age, full of daies, and full of honour. Hezekiah</hi> had honoured God in his <hi>life,</hi> and <note place="margin">1 Chro. 29. 28. 2 Chron. 32. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3</note> (ſaies the Text) <hi>all Jeruſalem and Judah came to doe him ho<g ref="char:EOLhyphen"/>nour at his death.</hi> One inſtance more, and 'tis of our Savi<g ref="char:EOLhyphen"/>our himſelf, all whoſe thought, life, buſineſſe it was to honour God: and was it not requited, when God gives him a <hi>name alove every name?</hi> and therefore <hi>commits all</hi> 
+               <note place="margin">Phil. 2. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ioh. 5. 13.</note> 
+               <hi>judgement to him,</hi> to the intent, <hi>that all men might honour the Sonne, as they honour the Father.</hi>
+            </p>
+            <p>Time would fail me to adde modern inſtances of Prin<g ref="char:EOLhyphen"/>ces, Souldiers, Scholars, who by their Swords, wri<g ref="char:EOLhyphen"/>tings, lives, have honoured God, and have accordingly been honoured by him: Take but a pair of inſtan<g ref="char:EOLhyphen"/>ces of our own Nation, I mean that bleſſed <hi>Edward</hi> the ſixth, and his ſiſter Queen <hi>Elizabeth;</hi> ſurely God had much honour from them both; and was it not as amply repay'd? As for him, who hath found a more honourable mention in the records of fame then he hath? Reade <note n="*" place="margin">Cardan. <hi>de geneturis. Obiit</hi> Euv<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dus <hi>ille ſanctiſſimus Rex, quo ado<g ref="char:EOLhyphen"/>leſcente neſcio a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſol doctiorem pro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etate at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> prudentiorem, u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quam videriz</hi> Pet. Martyr. <hi>Orat.</hi>
+               </note> 
+               <hi>Cardan</hi> a ſtranger, and of a differing Religion: read our own <hi>Cambden,</hi> ſee what they ſay of him: &amp; when he dies <hi>Reter Martyr</hi> leaves this of him to poſterity, ſaies he, <hi>That moſt godly King</hi> Edward <hi>is dead, and I doubt, whe<g ref="char:EOLhyphen"/>ther for his age, the world ever beheld one wiſer or more learn<g ref="char:EOLhyphen"/>ed.</hi> And of Queen <hi>Elizabeth</hi> a <note n="*" place="margin">
+                  <hi>Sixtus Quin<g ref="char:EOLhyphen"/>tus. <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Hiſt l.</hi> 82.</note> Pope could lay, that he ſaw but two in all the world, that were fit for Rule, and with whom he could conſult in weighty matters, meaning <hi>Henry</hi> King of <hi>Navar,</hi> and Queen <hi>Elizabeth.</hi> And there are thoſe among us of the preſent generation, ho<g ref="char:EOLhyphen"/>nouring God, whoſe memories (I doubt not) ſhall be ho<g ref="char:EOLhyphen"/>noured, while we are a Nation.</p>
+            <p>And on the contrary, That thoſe that have diſhonour<g ref="char:EOLhyphen"/>ed God, have been as much diſhonoured and ſleighted
+<pb n="14" facs="tcp:113114:10"/> by him: <hi>Nebuchadnezzar</hi> is a famous inſtance, who en<g ref="char:EOLhyphen"/>deavouring to ſwell into an equality with God <hi>(I will,</hi> 
+               <note place="margin">Iſa. 14. 14.</note> ſaies he, <hi>be like the moſt high, I will extoll my ſelf above the ſtarrs of God)</hi> is thrown down into an eſtate below the meaneſt of men; and moſt meet it was, that he, who was not content, to be man, ſhould be depos'd (as he was) in<g ref="char:EOLhyphen"/>to <note place="margin">Dan. 4. 33.</note> to the condition of a very beaſt. I could adde <hi>Saul,</hi> ano<g ref="char:EOLhyphen"/>ther example, who diſhonouring God in diſobeying of him, and ſparing <hi>Agag,</hi> and the fat Cattle, is therefore fain, even ſhamefully to beg of <hi>Samuel</hi> to <hi>honour him be<g ref="char:EOLhyphen"/>fore</hi> 
+               <note place="margin">1 Sam. 15. 30.</note> 
+               <hi>the people,</hi> and not without much adoe prevails with him. I intend you a taſte only, not a ſurſet of inſtances, elſe I could ſhew you Idolaters, transforming the glori<g ref="char:EOLhyphen"/>ous God into the <hi>likeneſſe of a beaſt,</hi> and God in requitall transforming them into the <hi>nature of beasts;</hi> they, God in<g ref="char:EOLhyphen"/>to <note place="margin">Rom. 1. 23, 24, 25, 26.</note> the <hi>likeneſse;</hi> them, God <hi>into the nature of beaſts.</hi> Nor are there wanting of our own Nation, who having ſleight<g ref="char:EOLhyphen"/>ed and diſhonoured God, will therefore be infamous, and a ſcorn to all poſterity.</p>
+            <p>And there's good reaſon for this manner of dealing: for what more ſutable to that excellent nature that is in God, then to repay honour to thoſe from whom himſelf re<g ref="char:EOLhyphen"/>ceives honour. The Scripture ſtiles the Lord, <hi>a man of warre,</hi> 
+               <note place="margin">Exod. 15. 3.</note> may I not ſay alſo, he is a <hi>man of honour?</hi> and if ſo, wherein can it better appear, then in beſtowing honour on thoſe from whom hee hath it? what could God doe leſſe <hi>in point of honour,</hi> then to ſo re<g ref="char:EOLhyphen"/>taliate?</p>
+            <p>On the other hand, how equall a thing is it, that thoſe that ſleight and diſhonour God, ſhould by him alſo be ſleighted and diſhonoured? 'tis but paying men in their own coyn, the juſteſt law of retribution that can be. Me thinks there's nothing more equall then if the Moon,
+<pb n="15" facs="tcp:113114:10"/> (which borrows all her light of the Sun) ſhall notwith<g ref="char:EOLhyphen"/>ſtanding eclipſe and darken the Sunnes glory; the Sunne ſhould ſometime withdraw, and leave her o<g ref="char:EOLhyphen"/>ver to her owne darkneſſe. And that thoſe vapours, which being lifted up from the low earth, ſhould upon their exaltation goe about to darken and allay that heat, and light that firſt rais'd them, ſhould there<g ref="char:EOLhyphen"/>fore be diſſolv'd into ſhowres, and left to fall down again, unto the low places from whence they were exhaled.</p>
+            <p>I have done clearing the point, I now proceed to Application, intending to apply both the branches ſeverally.</p>
+            <p>
+               <hi>And will God honour them that honour him?</hi> This <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> then diſcovers to us, whence it has come to paſſe that di<g ref="char:EOLhyphen"/>vers of low deſcent, and mean beginnings, have yet ar<g ref="char:EOLhyphen"/>rived to greateſt eminencies in their lifetime, and dying, have left ſuch precious memories behinde them: It learns us whence <hi>Joſeph,</hi> the moſt deſpiſed of all his brethren, is yet advanc'd ſo farre above them: whence <hi>David,</hi> the youngeſt, and leaſt promiſing of all the ſons of <hi>Jeſſe,</hi> is yet preferr'd to the throne, his other brethren being reje<g ref="char:EOLhyphen"/>cted: whence ſome of Herdſmen, have been advanced to Prophets; of Fiſhermen and Tentmakers, to Apoſtles: whence <hi>Luther</hi> a mean deſpiſed Monk, hath the honour to conflict with all the powers of <hi>Popiſh Rome,</hi> and over<g ref="char:EOLhyphen"/>come them: whence one of this Nation, of mean deſcent, <note place="margin">1. <hi>Cromwell.</hi>
+               </note> born but a Blackſmiths ſon, attain'd, and that deſervedly to greateſt office in the Kingdome: As alſo whence the memories of theſe, and thouſands more that might be mentioned, are at this day freſh and fragrant, and will by no length of time be forgotten: ſure it is not their ſtars, it hath not happened to them of chance; but this among
+<pb n="16" facs="tcp:113114:11"/> others is not the leaſt reaſon, they were thoſe that ho<g ref="char:EOLhyphen"/>noured God, and therefore God is pleaſed to make them honoured.</p>
+            <p>This diſcovers again, which is the high way to come <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> to honour; why, if we honour God, God will retaliate upon us, and honour us. Indeed wealth, or flattery, or doing ſome baſer office, may purchaſe perhaps titles for us: but vvhat are theſe? A <hi>Baron,</hi> an <hi>Earl;</hi> a <hi>Marqueſse, they ſignifie nothing,</hi> without ſome reall vvorth annexed to them: Turn to the enemies party, relinquiſh your truſt, be the foremoſt in ſtorming Towns, or doe but bring a<g ref="char:EOLhyphen"/>long with you the plunder and ruines of a Countrey, as Titles goe now adaies: This is the vvay to procure Ti<g ref="char:EOLhyphen"/>tles; all this vvhile the only vvay to true honour, is to ho<g ref="char:EOLhyphen"/>nour God.</p>
+            <p>This the <hi>ancient Romans</hi> (if I miſtake not) had ſome ſenſe of, and therefore made the way to Honours Tem<g ref="char:EOLhyphen"/>ple thorow the Temple of Vertue, meaning hereby, there vvas no vvay to honour, but by vertue. And I doubt not but ſome of you have prov'd it by experience, that you had never arriv'd unto that juſt value, and eſteem vvhich now you have, had you not been regardfull above all things of Gods honour.</p>
+            <p>As ever therefore vve vvould conſult our honour; <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> name, eſtimation, any thing, be perſvvaded to honour God. Me thinks this Argument ſhould prevail, for vvho is not moved vvith deſire of name and honour? <hi>Omnes in<g ref="char:EOLhyphen"/>cenduntur ad ſtudia gloriae. Heroſtratus</hi> adventures to burn that Temple, vvhich in thoſe daies vvas one of the vvorlds vvonders, for this reaſon only, that he might be famous <note place="margin">Prov, 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. Eccl 7. 1.</note> and talk'd of. <hi>Solomon</hi> tels us, <hi>A good name is better then great riches;</hi> yea, he goes further, and tels us, it is better then <hi>precious ointment,</hi> and in thoſe daies vvhat more pre<g ref="char:EOLhyphen"/>cious
+<pb n="17" facs="tcp:113114:11"/> then ointments; yea, experience tels us, to a free and ingenuous ſpirit 'tis dearer then life it ſelf; and there<g ref="char:EOLhyphen"/>fore to gain a name the bookiſh man will waſte, and ſpin out himſelf in ſtudies, he cares not how <hi>ſhort</hi> his daies are, ſo his memory be but <hi>laſting:</hi> And therefore, ſaies <note place="margin">
+                  <hi>Diebus ac re<g ref="char:EOLhyphen"/>ctibus hoc <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> qua me p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m lev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſec. Epiſt. Gloria tantum <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra, in med<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o, ho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es irruere, quod completis muris consp<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pug<g ref="char:EOLhyphen"/>nantem <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſpectant<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>greg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um du<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at.</hi> Liv.</note> one of them, <hi>'Tis all my ſtudy night and day that I may be famous.</hi> For honour the Souldier fights in the face of death, goes on upon the mouth of the Cannon: Like him in the Hiſtorian, who not ſpurr'd on by anger, but glory, ruſhed into the thickeſt of the enemy, and all, be<g ref="char:EOLhyphen"/>cauſe he counts it a gallant thing to be beheld from the wals of the neighbour City, fighting in the middeſt of them. And if all of us doe ſo naturally thirſt after ho<g ref="char:EOLhyphen"/>nour, let no one refuſe the eaſie tearms on which it is now offered; God will aſſuredly honour us, if we will be perſwaded to regard his honour. Oh therefore let me preſſe this ſame indifferently upon us all, to honour God. Be we perſwaded every one of us to conceive high thoughts of God, ſubmit without murmuring and di<g ref="char:EOLhyphen"/>ſpute to the commands of God, uſe reverently the titles and things of God, particularly roll thy ſelf upon God by believing, and ſo honour God: ſo <hi>Abraham</hi> (as was ſhown ere while) by believing glorified God: Be holy in all manner of converſation, and ſo honour God: Ho<g ref="char:EOLhyphen"/>lineſſe 'tis Gods image, his picture; and wherein can you more honour any one, then in wearing their picture? Fear God, be zealous for God, and ſo honour him. And if thou comeſt with any black guilt before the Lord this day, confeſſe, repent (as <hi>Joſhua</hi> ſpeaks to <hi>Achan)</hi> and <hi>ſo glorifie God.</hi> And now in the preſent differences of the Kingdom, wherein the honour of God is ſo much con<g ref="char:EOLhyphen"/>cern'd: Which of us but hath ſome talent or other, which, if employ'd, might bring ſome honour unto
+<pb n="18" facs="tcp:113114:12"/> God? If thou haſt a Sword, maiſt fight for it; an e<g ref="char:EOLhyphen"/>ſtate, maiſt lay it out for it; a good pen, write for it; a ready tongue, ſpeak for it; or in the failer of all theſe, at leaſt waies thou maiſt pray for it.</p>
+            <p>And there is good reaſon I ſhould preſſe you to honour God; for is there any thing dearer to God then his ho<g ref="char:EOLhyphen"/>nour? Or ſhould there be any thing dearer unto us? Is not this the great end of all deliverances, mercies, yea, of all his glorious works? Is not this the great end of all our lives, why we breathe, or any thing, that we might honour God? Hath he not lay'd a law upon all the creatures, Sun, Moon, and Stars, to honour him, and they in their manner obey it? and ſhall man, who hath upon him the greateſt engagements, and is beſt able to doe it, ſhall he only of all the creatures not honour him? Doth God glorifie and honour himſelf, yea, doth he in<g ref="char:EOLhyphen"/>finitely deſire glory, and ſhall it be withheld from him? When we court a man, we ſtudie what will pleaſe him; give the Lord glory, he cares for nothing elſe but glory. Doth God make it one of his ends to glorifie us, and ſhall it not be ours to glorifie God? Yea, will God abaſe him<g ref="char:EOLhyphen"/>ſelf ſo low, as to take honour from us, and ſhall we re<g ref="char:EOLhyphen"/>fuſe to give it? When the Heathens bringing Garlands to their Idols, could not by reaſon of the height of them reach their heads, they did not therefore take them home again, but leſt them at their feet; but when the high God will ſtoop ſo low, as that we poor creatures might put the Crown upon his head, ſhall we not doe it? A<g ref="char:EOLhyphen"/>las, conſider how little honour hee hath from the world, he is faine to get it, he is put to enter, and ſtrain for it, they give him none, and ſhall we that pro<g ref="char:EOLhyphen"/>feſſe our ſelves his people give him none neither? Yea, and when the glorious Lord ſhall condeſcend ſo farre, as
+<pb n="19" facs="tcp:113114:12"/> to indent with them that are his vaſſals, and promiſe not to be wanting to honour us, if we ſhall be ſtudious of his honour, and ſhall not all this together prevail with us to honour God?</p>
+            <p>But I muſt bring this nearer yet, and endeavour to per<g ref="char:EOLhyphen"/>ſwade with you, the Worthies of your Countrey, to make it your buſineſſe, yea, your Parliament buſineſſe, to honour God. I have urg'd you hereunto, as Chriſti<g ref="char:EOLhyphen"/>ans already: now, as you are Members of the ſupreme Councell of the Kingdome, give me leave to preſſe you, in this capacitie, to make it your buſineſſe to honour God.</p>
+            <p>Surely there are not greater matters committed to men, or wherein the honour of God is more deeply con<g ref="char:EOLhyphen"/>cerned, then thoſe that you are daily converſant in: You have before you the warre, the peace, the common ju<g ref="char:EOLhyphen"/>ſtice, the Reformation, in ſhort, the Church, the State affairs of three Kingdoms, perhaps on you depends the welfare of all the Chriſtian world. In which, if you ſhall ſhew the uttermoſt of your Wiſdome, Goodneſſe, Zeal, Diligence, and Faithfulneſſe, what an income of honour will from all accrue to God? Hath now the Lord honoured you with ſo noble employment? Oh be not you wanting to his honour in the managing of it: Oh for the honour of God, be you faithfull, diligent, upright, zealous. Let every <hi>motion</hi> made among you, know no other termes from which, and unto which it tends, but Gods honour. Oh, let thoſe proceedings of your Houſe be only to the <hi>Orders</hi> of it, which ſhall directly aim at Gods honour. Let Gods honour be among you, as <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> in <hi>Pharaohs</hi> houſe, alone diſpoſing and ordering all things: yea, and more abſolute then he, <hi>Let none be</hi> 
+               <note place="margin">Gen. 41. 42.</note>
+               <pb n="20" facs="tcp:113114:13"/> 
+               <hi>greater in the throne neither.</hi> Honourable, Beloved, let this honour of God not only be the <hi>ſenſe of the Houſe</hi> at all times, but even the life, and ſoul, and being of it alſo; as if, not unlike the <hi>Roman Senate Houſe,</hi> this were inſcribed upon your doors, <hi>Ne quid detrimenti honos Dei ca<g ref="char:EOLhyphen"/>piat; This Houſe of Commons therefore only is, that Gods ho<g ref="char:EOLhyphen"/>nour might ſuffer no prejudice.</hi>
+            </p>
+            <p>And ſure you have reaſon thus to be ſtudious of Gods honour, I beſeech you conſider, Did not God advance you to the honour of Members in this preſent Parlia<g ref="char:EOLhyphen"/>ment? And when you were <hi>little in your own eyes,</hi> ming<g ref="char:EOLhyphen"/>led with the reſt of your brethren, and but levell with them, was it not God enclin'd the hearts of the people to chuſe you to this dignity, to be the <hi>repairers of breachers, and restorers of paths to dwell in?</hi> You might have liv'd <note place="margin">Iſa. 58. 12.</note> and died obſcure, having had no eminent ſtroke in all theſe greateſt of buſineſſes; had not God adopted you to this honour; and leaves this no engagement on you to ho<g ref="char:EOLhyphen"/>nour God?</p>
+            <p>But further, as God hath honoured each of you in calling you into this Parliament; ſo ſince your comming together, hath ever God honoured any Parliament, nay, let me ſay, any ſociety of men, as he hath done you? Have any conflicted with ſo many difficulties, and over<g ref="char:EOLhyphen"/>come them? Have any made ſuch attempts againſt Po<g ref="char:EOLhyphen"/>perie, Tyrannie, Prelacy, and proſpered in them? Have a<g ref="char:EOLhyphen"/>ny fought ſo many battles, and wone them? Any been endangered by ſo many curſed deſignes and plots, and ſcap'd them? God ſometime greatly honoured an <hi>Eng<g ref="char:EOLhyphen"/>liſh Parliament,</hi> in delivering them from a <hi>powder-treaſon,</hi> though but once; you are delivered from a <hi>powder-trea<g ref="char:EOLhyphen"/>ſon</hi> every day, yea, though there are employ'd, not one,<note place="margin">Novemb 5.</note>
+               <pb n="21" facs="tcp:113114:13"/> but Armies of <hi>Fauxes</hi> to give fire to it. And notwith<g ref="char:EOLhyphen"/>ſtanding all attempts of force and fraud, that ſtill you <hi>are,</hi> you <hi>live,</hi> are ſtill a Parliament, and now at laſt acknowledged ſo; and all endeavours ſhould fail, to put a <hi>ſhort</hi> (though much deſired) <hi>end to this perpetuall Parliament.</hi> 
+               <note place="margin">Kings Letter.</note>
+            </p>
+            <p>And is this all that God will doe for you? and hath he already emptied on you all his ſtore of honour? Or rather, if you goe on to honour him, and make it your buſineſſe to doe ſo, O the deliverances, ſucceſſes, bleſ<g ref="char:EOLhyphen"/>ſings, that he will yet heap upon you! What you have already will be but earneſt of what ſhall follow after. For your ſelves, you will be ſomething like a won<g ref="char:EOLhyphen"/>der, the bleſſing of this, the admiration of all ſuc<g ref="char:EOLhyphen"/>ceeding ages. And make account, that as each of you have been eminent in promoting Gods honour, accord<g ref="char:EOLhyphen"/>ingly will God ſet eminent and laſting marks of honour on you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> 
+               <note place="margin">
+                  <hi>Exh.</hi> 23.</note> Once more; Will God honour them that honour him? Oh be perſwaded to imitate God, and doe you ſo alſo. See you a man that makes it his buſineſſe to honour God; Oh ſet a price on ſuch an one, let ſuch an one be <hi>the man whom the Parliament will honour.</hi> Good men will doe ſo, it is the Character of the good man in the 15. <hi>Pſal.</hi> 4. to honour ſuch, God himſelf will honour ſuch, and can you poſſibly write after a better copy?</p>
+            <p>Yea, and honour men, becauſe God honours them. Surely God hath exceedingly honoured ſome men of late, hath bleſſed them wonderfully, hath given them admirable ſucceſſe, and the enemy hath come down mightily before them; God in all this hath eminently honoured them; now let no man thinke much to honour
+<pb n="22" facs="tcp:113114:14"/>
+               <note place="margin">Conc. Trid.</note> them alſo. Let no man ſay, as that Biſhop did of <hi>Lu<g ref="char:EOLhyphen"/>thers</hi> Reformation, He did not much diſlike the thing, but that none but a baſe, obſcure Monk ſhould be the chiefeſt promoter of it, this he could not thinke of with any patience. Beloved, God will take it well that thoſe that are his favourites ſhould be ours too, and when he ſets himſelf to honour any, it will be our wiſe<g ref="char:EOLhyphen"/>dome not to ſhew our ſelves backward to honour them alſo.</p>
+            <p>I leave the former branch, a word or two of the other, and I have done.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Will God aſſuredly caſt contempt and ſhame on thoſe that ſhall adventure to diſhonour him? Behold then this truth made good in your eyes this day! Behold (I ſay) perſons of the higheſt ranke amongſt us deeply diſho<g ref="char:EOLhyphen"/>nouring God, and God following them with greateſt diſhonours. Time was, their perſons, names, authority were ſacred among us, now alas, how cheap are they grown, how neglected? So long indeed as it was poſſible, means was us'd to hide their ſhame, and much adoe there hath beene, by turning over the blame of all our miſe<g ref="char:EOLhyphen"/>ries upon evil Counſellours, Incendiaries, and the like, to diſcharge them of it, but all in vain, it can be hid no long<g ref="char:EOLhyphen"/>er, for now have we worſe things, and more diſhonoura<g ref="char:EOLhyphen"/>ble, under their own hand, as their own avowed acts, then <note place="margin">Kings Letters</note> any we have formerly father'd upon their bad Counſel<g ref="char:EOLhyphen"/>lours. And what other reaſon hereof can we aſſign, but this, Gods honour hath ſuffered exceedingly by them, and therefore are they fallen under all this diſhonour.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Again, Are any of your ſelves under a cloud? Are you ſuſpected? Do you perceive your ſelves leſſe in the eſteem of good men then heretofore, and are therefore penſive
+<pb n="23" facs="tcp:113114:14"/> and dejected? Conſider then, have you not abated unto God ſomewhat of that honour you have formerly given him? I charge no man; only thinke with your ſelves, are you not departed from what you ſometimes were? Are you not taken off from that forwardneſſe for God, and that faithfulneſſe to your Countrey you have formerly (at leaſtwaies) made a ſhew of? It will be worth your while to try: For commonly God doth not caſt any of us un<g ref="char:EOLhyphen"/>der ſhame, but having been himſelf before by us diſho<g ref="char:EOLhyphen"/>noured.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Further, It ſhews the folly of them that ſhall once hope to hide their own ſhame, by attempting any thing to Gods diſhonour. <hi>David</hi> did ſo, who to cover the ſhame of his adultery, firſt makes <hi>Vriah</hi> drunk, and when that deſign fails, afterward murthers him; but what got he by it, but a world of more diſhonour? It is many times a re<g ref="char:EOLhyphen"/>medy worſe then the diſeaſe; and fares with ſuch as with a man ſlipt into a bogg or quagmire, who endeavouring with one foot to help the other, ſticks that deeper and faſt<g ref="char:EOLhyphen"/>er then the other. It is ſin that firſt brings ſhame upon us, and ſhall we be ſo fooliſh as by adding to ſin to hope to cover it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> Once more, Will God pour ſhame on them that doe diſhonour him? Doe you ſo too, and when you ſee any ſetting God in his waies at nought, let ſuch an one be ſet at nought by you alſo. As 'tis the good mans character to honour them that fear the Lord (as we ſay before) ſo like<g ref="char:EOLhyphen"/>wiſe (ſaies the ſame Pſalmiſt) is it to deſpiſe ſuch vile per<g ref="char:EOLhyphen"/>ſons as doe diſhonour him. And ſhould you doe other<g ref="char:EOLhyphen"/>waies, and heap your honours on them from whom God hath none, have you not cauſe to fear it may be told you, as once it was unto <hi>Jehoſhaphat, Shouldſt thou honour the un<g ref="char:EOLhyphen"/>godly,</hi>
+               <pb n="24" facs="tcp:113114:15"/> 
+               <hi>and love them that hate the Lord? therefore is wrath</hi> 
+               <note place="margin">2 Chron. 19. 2.</note> 
+               <hi>upon thee from before the Lord.</hi> God takes it well from you, when you honour them that honour him; but when you countenance and favour thoſe who deſpiſe the Lord, what greater affront can be done to him?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> And will God indeed pour ſhame on thoſe that do him diſhonour? Oh, let it prevail with all of us, as ever we would not conſult perpetuall reproach unto our ſelves and names, at no hand to diſhonour God. Let no man that any whit regards his fame and eſtimation do it. If we of the miniſtery do it, think but what became of thoſe that went before us; what tribe of men, (notwithſtanding their late greatneſſe) are more low and abject then the <hi>Prelates,</hi> and their <hi>&amp;c.</hi> are at this day? They were not ſo high ere-while, but now they are as vile and contemptible: and what was it that loſt the houſe of <hi>Eli</hi> the Prieſtly dignity, but their diſhonouring God?</p>
+            <p>If you of the ſouldiery do it, who profeſſe your ſelves <hi>the ſervants of honour</hi> more then any, you will miſſe of it: experience ſhews men blaſted and infamous that diſhonor God, you will be laid aſide, you will die inglorious, if you diſhonour God. Methinks this ſhould take with generous ſpirits, for who is there of that number had not rather die, then live with infamy? <hi>Vita &amp; fama pari paſſu ambulant.</hi> Nay 'tis worſe then death to many: divers have choſe to lay violent hands upon themſelves, and ſo deſtroy body and ſoul together, rather then live to ſee themſelves infa<g ref="char:EOLhyphen"/>mous. And the <hi>Italians</hi> (I have read) exceedingly wondered at the <hi>Spaniſh</hi> Generall of the <hi>Armado</hi> in 88. that being ſo foyld, he did not make himſelf away: they wondered much how he could overlive ſo much diſhonour.</p>
+            <p>And ſhall not this prevail on you (moſt honoured Wor<g ref="char:EOLhyphen"/>thies)
+<pb n="25" facs="tcp:113114:15"/> Oh do not you diſhonour God. Oh be there none a<g ref="char:EOLhyphen"/>mong your number a drunkard, a ſwearer, an unclean li<g ref="char:EOLhyphen"/>ver, a ſcorner of the waies of God, or any ſuch like pro<g ref="char:EOLhyphen"/>fane and vile perſon: eſpecially, as you are Members of that great and noble body, be it farre from any of you to be acted, either by bad or private ends, to be a ſeeming friend, a ſecret enemy, and one that might be tempted to betray all into the hands of bloud and violence. Should a<g ref="char:EOLhyphen"/>ny of you be ſuch, you will be diſcovered, carry it never ſo warily, and be aſſured your heads ſhall never be laid in the grave with honour. But above all, as a <hi>Parliament</hi> do not diſhonour God. I know not that yet you have, I beſeech you at no hand begin now: you will do ſo, if you eſtabliſh any wickednes by a law: God will be diſhonour'd, if all things be carried among you by intereſts and ſidings. It will be ſo, if you refuſe men common juſtice, and give them cauſe to wiſh the former times again. It will be ſo, if you neglect Religion, and after you have ſerv'd your turn of it, and it's moſt ſincere profeſſours, ſhall then endeavour fairly to diſcharge your ſelves of both. You will do ſo, if doors ſhall be flung open, &amp; foul, profane, unwaſhen ones have leave, as well as any, to ſhare the holy things of God. It will be ſo, if upon any pretence you ſhall give up our ſtates and liberties (wherewith you are truſted) into their power, from whom of late years it hath coſt us ſo many lives, and ſo much bloud to recover them.</p>
+            <p>Oh! do not you diſhonour God: the chiefeſt among us have not ſcaped contempt and infamie, they preſuming to deſpiſe and diſhonour God. I appeal to you (Honourable, Beloved) when the Cabinet-councel was made publike; for now upon the reading of the Cabinet letters, who of us is not of the <hi>Cabinet-councel?</hi> (I ſay) I appeal to you, was <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> it ſelf <note n="*" place="margin">When the Ca<g ref="char:EOLhyphen"/>binet Letters, were read at the Guild-hal.</note> on that day a <hi>ſacred</hi> thing among the people,
+<pb n="26" facs="tcp:113114:16"/> or rather, the higheſt among them daring to diſhonour God, what honour of word, or action, or perſon is now left unto them? Beloved, you have ſeen, when of your own number a party forſaking their truſt, and banding them<g ref="char:EOLhyphen"/>ſelves againſt you, beſides all the ſcorn by us caſt upon them, for a reward of all the hazard, travel, loſſe they have ſuſtain'd, are counted even by him that firſt imployed them, a <hi>MVNGREL PARLIAMENT.</hi> 
+               <note place="margin">Kings Letter.</note>
+            </p>
+            <p>And therefore to draw to a concluſion: Would you not be the ſcorn of men, a publike infamy, for God can pour contempt on <hi>Parliaments,</hi> as well as <hi>Princes?</hi> Oh do not then diſhonour God, not as Chriſtians, not as Parliament men; but above all, not as a Parliament diſhonour God. But on the contrary, make but his honour your buſineſſe; let this only contention be among you, who ſhall bring God moſt honour, and ſo expect more honour, more ſuc<g ref="char:EOLhyphen"/>ceſſes, greater and greater glorie to be daily added to you: expect, that when the names of them that have betray'd their Countrey, ſhall either be forgotten and loſt, or to their ſhame and infamie remembred, your names ſhall be as an ointment poured out, leaving an odourand fragran<g ref="char:EOLhyphen"/>cie to all that follow after.</p>
+            <p>And though I cannot promiſe you <hi>Titles,</hi> the vileſt of men having at the preſent ingroſs'd them, however you ſhall want no honour, good men will make up that want, they, you have ſeen, will be ſure to honour you, God will not fail to honour you; Himſelf aſſures you ſo much in the Text, <hi>Them that honour me I will honour; and them that deſpiſe me ſhall be lightly esteemed.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113114:16" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
